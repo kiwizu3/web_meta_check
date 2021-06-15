@@ -1,0 +1,82 @@
+/* @font-face{
+    font-family: ganganee;
+    src:url('./fonts/un-ganganee.ttf');
+    }
+     */
+
+     
+body{
+    font-family: 'Open Sans', sans-serif, ganganee;
+    font-weight: 400;
+    background: #e4e6ea;
+}
+
+.bg-color{
+    background-color: #fff;
+}
+
+.text-shoutout{
+    color: #00aeff;
+}
+
+.logo{
+    filter: grayscale(100%);
+}
+
+.icon{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 4rem;
+    background-color: #f0f2f6;
+}
+
+.cover{
+    width: 100%;
+    height: 500px;
+    background-color: #f0f2f6;
+}
+
+.margin-top-xl{
+margin-top: 10rem;
+}
+
+.title{
+    width: 50%;
+    height: 3rem;
+    border-radius: 4rem;
+    background-color: #e0e4e9;
+}
+
+.subtitle{
+    width: 40%;
+    height: 3rem;
+    border-radius: 4rem;
+    background-color: #e0e4e9;
+}
+
+.button{
+    width: 25%;
+    height: 3rem;
+    border-radius: 4rem;
+    background-color: #fff;
+}
+
+.subheading{
+    width: 40%;
+    height: 2rem;
+    border-radius: 4rem;
+    background-color: #e0e4e9;
+}
+
+.tagline{
+    width: 70%;
+    height: 2rem;
+    border-radius: 4rem;
+    background-color: #e0e4e9;
+}
+
+.box{
+    background-color: #e0e4e9;
+    margin: 1rem;
+    padding: 1.5rem;
+}
